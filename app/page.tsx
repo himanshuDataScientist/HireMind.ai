@@ -15,7 +15,7 @@ export default async function HomePage() {
           <span className="eyebrow">Skills → Graph → Match</span>
           <h1>Job matching that follows your actual network.</h1>
           <p>
-            CareerGraph pairs a normal application database with a real graph of skills, people,
+            HireMind.ai pairs a normal application database with a real graph of skills, people,
             and roles — so recommendations come from who you're connected to and what you
             already know, not a keyword search.
           </p>

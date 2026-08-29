@@ -6,7 +6,7 @@ export default function Nav() {
       <div className="nav-inner">
         <Link href="/" className="nav-logo">
           <span className="dot" />
-          CareerGraph
+          HireMind.ai
         </Link>
         <nav className="nav-links">
           <Link href="/">Jobs</Link>

@@ -4,7 +4,7 @@ import Nav from "@/components/Nav";
 import ConvexClientProvider from "@/components/ConvexClientProvider";
 
 export const metadata: Metadata = {
-  title: "CareerGraph",
+  title: "HireMind.ai",
   description: "Job matching, skill-gap analysis, and career-path discovery, built on a real graph.",
 };
 

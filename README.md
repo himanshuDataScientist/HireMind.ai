@@ -1,4 +1,4 @@
-# CareerGraph
+# HireMind.ai
 
 An intelligent recruitment platform: job matching, skill-gap analysis, and
 graph-based professional networking, built on two purpose-fit databases
@@ -99,16 +99,16 @@ with a comment.
 ### 1. Push to GitHub
 
 ```bash
-cd careergraph
+cd hiremind
 git init
 git add .
-git commit -m "Initial CareerGraph scaffold: Convex + Neo4j + Next.js"
+git commit -m "Initial HireMind.ai scaffold: Convex + Neo4j + Next.js"
 git branch -M main
-git remote add origin https://github.com/<your-username>/careergraph.git
+git remote add origin https://github.com/<your-username>/hiremind.git
 git push -u origin main
 ```
 
-(Create the empty repo on GitHub first — `gh repo create careergraph --public --source=. --push` does both steps at once if you have the GitHub CLI.)
+(Create the empty repo on GitHub first — `gh repo create hiremind --public --source=. --push` does both steps at once if you have the GitHub CLI.)
 
 ### 2. Deploy Convex to production
 
