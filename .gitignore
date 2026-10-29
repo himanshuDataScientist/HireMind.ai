@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# Next.js
+/.next/
+/out/
+
+# local environment and secrets
+.env
+.env.*
+!.env.local.example
+
+# deployment/build output
+/build
+/dist
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
